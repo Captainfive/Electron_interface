@@ -1,0 +1,24 @@
+#addon_manager{
+    display: flex;
+    width: 100%;
+    height: 750px;
+    align-content: center;
+    justify-content: space-around;
+}
+
+#addon_table{
+    border: 1px solid #333;
+    width: 47%;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 890px;
+}
+
+#infos{
+    border-radius: 15px 50px;
+    width: 51%;
+    height: 890px;
+    background-color: #bdc3c7;
+    margin-right: 5px;
+    margin-top: 10px;
+}
