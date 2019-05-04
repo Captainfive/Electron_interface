@@ -1,0 +1,5 @@
+
+.icon-param:before { content: '\e800'; } /* '' */
+.icon-group:before { content: '\e801'; } /* '' */
+.icon-add:before { content: '\e802'; } /* '' */
+.icon-minimize:before { content: '\f2d1'; } /* '' */
