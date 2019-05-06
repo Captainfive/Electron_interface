@@ -13,9 +13,9 @@ Electron interface for addon management
 This package is available in the Node Package Repository and can be easily installed with [npm](https://docs.npmjs.com/getting-started/what-is-npm) or [yarn](https://yarnpkg.com).
 
 ```bash
-$ npm i @slimio/addon-manager
+$ npm i addon-manager
 # or
-$ yarn add @slimio/addon-manager
+$ yarn add addon-manager
 ```
 
 ## Usage example
