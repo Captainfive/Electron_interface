@@ -1,7 +1,6 @@
 window.addEventListener("DOMContentLoaded", (event) => {
     console.log("DOM entièrement chargé et analysé");
 
-
     const element2 = document.getElementById("test");
     const resizeV = document.getElementById("resizing_v");
 
